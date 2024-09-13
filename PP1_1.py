@@ -6,7 +6,7 @@ Date Last Modified: September 12, 2024
 '''
 
 def q1():
-        print("hello world")
+        print("Hello World")
   #Write Assignment code here
   #Remember your code must be indented once
 
